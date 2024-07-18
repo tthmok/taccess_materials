@@ -1,0 +1,5 @@
+Sarah is a 32-year-old autistic streamer with a passion for art and creativity. She just recently started livestreaming her digital artwork sessions on Twitch to try and build a community around her interests.
+
+Sarah decides to finish up a detailed landscape painting so she can share a new technique she's learned for creating realistic water. Since she is a new streamer her chat is typically slow and quiet, but today it looks a little different as another streamer has sent their viewers her way. When she finishes sharing her technique she sees an influx of \includegraphics[height=1.5em]{images/biblethump.png} and \includegraphics[height=1.5em]{images/coolstorybob.png} emotes. The audience intends to show their appreciation of her technique but she misinterprets the emotes due to her unfamiliarity with them and thinks her work is being mocked.
+
+Sarah starts to feel disrespected and unappreciated, leading to confusion among the viewers who intended to engage enthusiastically. Eventually, she no longer wants to deal with the negativity and decides to take a break and end the stream.
